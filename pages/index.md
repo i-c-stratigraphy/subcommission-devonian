@@ -3,12 +3,10 @@ layout: page
 title: "Home"
 permalink: /
 ---
-## About
+![](images/Devonian-s.png)
 
-### What is SDS?
-The International Union of Geosciences (IUGS), amongst other tasks, features the International Commission on Stratigraphy (ICS), which is composed of individual Subcommissions on individual systems and the Precambrian that build the formal, officially and internationally defined time units (chronostratigraphic units) of Earth History.
+The main objectives of the Subcommission on Devonian Stratigraphy (SDS) are:
 
-SDS has been one of the most active Subcommissions of ICS since it formed in 1973, which is mostly based on a highly successful integration of all leading specialists of Devonian stratigraphy, regardless of their specialization or their origin. SDS currently comprises three **officers** (chairman, vice-chairman, secretary/second vice chairman), 18 **Titular Members**, and ca. 80 **Corresponding Members**, covering all continents and all stratigraphic methods. In addition, there are national Subcommissions on Devonian Stratigraphy, e.g., in Germany and Russia, and unofficial regional groups, such as the North American “Friends of the Devonian”, that communicate SDS activities and decisions to further Devonian geologists and especially to stratigraphers. SDS is the only permanent international organization that promotes progress in the development of precise global Devonian time scales and that acts as a forum for all Devonian stratigraphers and for those whose interests lie in the application of precise stratigraphy to diverse geoscientific fields, from palaeontology and Palaeozoic global changes (events) to sedimentology, petroleum geology, geochemistry, geochronology, plate tectonics, and synsedimentary tectonics. The latter aspect is strongly underlined by past and current successful co-operations between SDS and various projects of the International Geological Correlation Programme (IGCP, e.g., IGCPs 216, 293, 421, and, currently, 499).
-
-### SDS and ICS
-The SDS Chairman is a Voting Member of ICS and, in this function, the present and past chairmen have taken part actively and regularly in the review and voting on GSSP proposals of other Subcommissions, in ICS meetings at IGCs and in workshops between those (Urbino 2002, Leuven 2005), and have contributed to the preparation of the recent publication on the Geological Time Scale. New official time scale publications are planned for 2008 (next International Geological Congress in Oslo) and 2010. On the other hand, ICS news are permanently been communicated to the Subcommission membership, either by email, at Business Meetings or via the SDS Newsletter. In this way, SDS acts as a multiplying factor of ICS. Beyond the GSSP presentations, SDS members have contributed several Devonian stratigraphic publications to the official journal of IUGS, Episodes.
+* to develop of an internationally approved chronostratigraphical timescale for the Devonian with maximum time resolution, as part of the ICS standard global stratigraphic scale;
+* to produce a stratigraphic table displaying agreed subdivision to stage and substage level marking boundaries that are defined by a GSSP.
+* to promote of new and modern stratigraphical techniques and their integration into Devonian multidisciplinary schemes.
