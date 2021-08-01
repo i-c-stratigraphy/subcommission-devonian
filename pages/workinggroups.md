@@ -5,6 +5,9 @@ permalink: /wgs
 ---
 ## Working Groups
 
+* [Devonian/Carboniferous Boundary Working Group (DCBWG)](#devoniancarboniferous-boundary-working-group-dcbwg)
+* [Emsian Working Group](#emsian-working-group)
+
 ### Devonian/Carboniferous Boundary Working Group (DCBWG)
 
 ![](images/wg-dcb-LaSerreSection.jpg)
