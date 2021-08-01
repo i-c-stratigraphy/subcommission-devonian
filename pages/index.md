@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 permalink: /
 ---
-![](images/Devonian-s.png)
+<a href="https://stratigraphy.org/gssps/#devonian"><img src="images/Devonian-s.png" /></a>
 
 The main objectives of the Subcommission on Devonian Stratigraphy (SDS) are:
 
