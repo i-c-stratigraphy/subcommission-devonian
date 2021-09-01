@@ -4,6 +4,7 @@ title: "Officers"
 permalink: /officers
 ---
 ## Officers
+<p>The electred office holders of the Devoninan Subcommission are:</p>
 <div class="person">
     <img src="/images/person-slavik.jpg" alt="" />
     <h4>Chair: Ladislav Slavík</h4>
