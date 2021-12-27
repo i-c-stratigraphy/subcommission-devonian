@@ -63,7 +63,7 @@ permalink: /officers
         Università di Trieste<br />
         via Weiss 2 - 34128 Trieste, Italy<br />
         Tel: +39 040 558-2033<br />
-        E-mail: <a href="mailto:ccorradin@units.it">ccorradin@units.it</a>  
+        E-mail: <a href="mailto:ccorradini@units.it">ccorradini@units.it</a>  
     </p>
 </div>
 
