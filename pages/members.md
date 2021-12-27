@@ -33,6 +33,7 @@ José I. VALENZUELA RIOS (Spain)  | <Jose.I.Valenzuela@uv.es>
 
 Member  | Email
 ---  | ---
+Sarah ABOUSSALAM (Gerrmany)  |  <taghanic@uni-muenster.de>
 Polina ANDREEVA (Bulgaria)  | <polina_a@geology.bas.bg>
 Alireza ASHOURI (Iran)  | <ashouri2001@yahoo.com>
 Markus ARETZ (France)  | <markus.aretz@Get.omp.eu>
@@ -138,7 +139,7 @@ Anthony J. WRIGHT (Australia)  | <tony.wright@optusnet.com.au>
 Jinzhuang XUE (China)  | <pkuxue@pku.edu.cn>
 Mehdi YAZDI (Iran)  | <yazdimehdi@yahoo.com>
 Gavin C. YOUNG (Australia)  | <gavin.young@anu.edu.au>
-Jay ZAMBITO (USA)  | <jay.zambito@wgnhs.uwex.edu>
+Jay ZAMBITO (USA)  | <zambitoj@beloit.edu>
 Huaicheng ZHU (China)  | <hczhu@nigpas.ac.cn>
 Min ZHU (China)  | <zhumin@ivpp.ac.cn>
 Pu ZONG (China)  | <zongpu0501@163.com>
