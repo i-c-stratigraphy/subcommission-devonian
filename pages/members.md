@@ -91,6 +91,8 @@ Peter KÖNIGSHOF (Germany)  | <Peter.Koenigshof@senckenberg.de>
 Tomáš KUMPAN (Czech Republic)  | <kumpan.tom@gmail.com>
 Hervé LELIÈVRE (France)  | <lelievre@cimrs1.mnhn.fr>
 Jau-Chyn LIAO (Spain)  | <Jau.Liao@uv.es>
+Jianfeng LU (China)  |  <jflu@nigpas.ac.cn>
+Felix LÜDDECKE  | <felix.lueddecke@uni-muenster.de>
 Ervins LUKSEVICS (Latvia)  | <ervins.luksevics@lu.lv>
 Hanna MATYJA (Poland)  | <hmat@pgi.gov.pl>
 Michal MERGL (Czech Republic)  | <mmergl@kbi.zcu.cz>
@@ -119,6 +121,7 @@ Norman SAVAGE (USA)  | <nmsavage@uoregon.edu>
 Eberhard SCHINDLER (Germany)  | <eberhard.schindler@senckenberg.de>
 Hans-Peter SCHÖNLAUB (Austria)  | <hp.schoenlaub@aon.at>
 Maria SNIGIREVA (Russia) | 
+Till SÖTE (Germany)  | <t_soet_01@uni-muenster.de>
 Maurice STREEL (Belgium)  | <maurice.streel@ulg.ac.be>
 Ramiro SUAREZ-SORUCO (Bolivia)  | <ramiro@suarez.net>
 Thomas SUTTNER (Austria)  | <suttner.thomas@gmail.com>
@@ -134,6 +137,8 @@ Charles VER STRAETEN (USA)  | <cverstra@mail.nysed.gov>
 Stanislava VODRÁŽKOVÁ (Czech Republic)  | <stana.vodrazkova@seznam.cz>
 Cheng-Yuan WANG (China)  | <cywang@nigpas.ac.cn>
 Karsten WEDDIGE (Germany)  | <karsten.weddige@senckenberg.de>
+Tomáš WEINER (Czech Republic)  | <weiner@gli.cas.cz>
+Hedvika WEINEROVÁ (Czech Republic)  | <weinerova@gli.cas.cz>
 Michael WHALEN (USA)  | <mtwhalen@alaska.edu>
 Anthony J. WRIGHT (Australia)  | <tony.wright@optusnet.com.au>
 Jinzhuang XUE (China)  | <pkuxue@pku.edu.cn>
