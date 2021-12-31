@@ -92,7 +92,7 @@ Tomáš KUMPAN (Czech Republic)  | <kumpan.tom@gmail.com>
 Hervé LELIÈVRE (France)  | <lelievre@cimrs1.mnhn.fr>
 Jau-Chyn LIAO (Spain)  | <Jau.Liao@uv.es>
 Jianfeng LU (China)  |  <jflu@nigpas.ac.cn>
-Felix LÜDDECKE  | <felix.lueddecke@uni-muenster.de>
+Felix LÜDDECKE (Germany)  | <felix.lueddecke@uni-muenster.de>
 Ervins LUKSEVICS (Latvia)  | <ervins.luksevics@lu.lv>
 Hanna MATYJA (Poland)  | <hmat@pgi.gov.pl>
 Michal MERGL (Czech Republic)  | <mmergl@kbi.zcu.cz>
