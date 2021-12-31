@@ -7,6 +7,7 @@ permalink: /archives
 
 ### SDS Newsletters
 
+* [Newsletter 36, 2021](archive/SDS-Newsletter-35-2021.pdf) 
 * [Newsletter 35, 2020](archive/SDS-Newsletter-35-2020.pdf) 
 * [Newsletter 34, 2019](archive/SDS-Newsletter-34-2019.pdf) 
 * [Newsletter 33, 2018](archive/SDS-Newsletter-33-2018.pdf) 
