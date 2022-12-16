@@ -54,7 +54,7 @@ Carole J. BURROW (Australia)  | <carole.burrow@gmail.com>
 Jean-Georges CASIER (Belgium) | <casier@naturalsciences.be>
 S. Vladimir CHUPROV (Russia)  | <Chuprov@geo.komisc.ru>
 Leona CHADIMOVÁ (Czech Republic)  | <chadimova@gli.cas.cz>
-Maria G. CORRIGA (Italy) | <corrigamaria@hotmail.it>
+Maria G. CORRIGA (Italy) | <corrigamariagiovanna@gmail.com>
 Jed DAY (USA)  | <jeday@ilstu.edu>
 Claudia DOJEN (Austria)  | <claudia.dojen@landesmuseum.ktn.gv.at>
 David DE VLEESCHOUWER (Germany)  | <ddevleeschouwer@marum.de>
@@ -92,7 +92,6 @@ Tomáš KUMPAN (Czech Republic)  | <kumpan.tom@gmail.com>
 Hervé LELIÈVRE (France)  | <lelievre@cimrs1.mnhn.fr>
 Jau-Chyn LIAO (Spain)  | <Jau.Liao@uv.es>
 Jianfeng LU (China)  |  <jflu@nigpas.ac.cn>
-Felix LÜDDECKE (Germany)  | <felix.lueddecke@uni-muenster.de>
 Ervins LUKSEVICS (Latvia)  | <ervins.luksevics@lu.lv>
 Hanna MATYJA (Poland)  | <hmat@pgi.gov.pl>
 Michal MERGL (Czech Republic)  | <mmergl@kbi.zcu.cz>
@@ -117,6 +116,7 @@ Luiza PONCIANO (Brazil)  | <luizaponciano@gmail.com>
 J. José RUSTÁN (Argentina)  | <juanjorustan@gmail.com>
 J. Barry RICHARDSON (United Kingdom)  | <jbr@nhm.ac.uk>
 Charles A. SANDBERG (USA)  | <sandberg@usgs.gov>
+Felix SAUPE (Germany)  | <felix.saupe@uni-muenster.de>
 Norman SAVAGE (USA)  | <nmsavage@uoregon.edu>
 Eberhard SCHINDLER (Germany)  | <eberhard.schindler@senckenberg.de>
 Hans-Peter SCHÖNLAUB (Austria)  | <hp.schoenlaub@aon.at>
