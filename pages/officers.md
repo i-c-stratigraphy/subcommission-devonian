@@ -56,14 +56,13 @@ permalink: /officers
 </div>
 
 <div class="person">
-    <img src="/images/person-corradini.gif" alt="" />
-    <h4>Webmaster: Carlo Corradini</h4>
+    <img src="/images/person-gouwy.jpg" alt="" />
+    <h4>Webmaster: Sofie Gouwy</h4>
     <p>
-        Dipartimento di Matematica e Geoscienze<br />
-        Università di Trieste<br />
-        via Weiss 2 - 34128 Trieste, Italy<br />
-        Tel: +39 040 558-2033<br />
-        E-mail: <a href="mailto:ccorradini@units.it">ccorradini@units.it</a>  
+        Geological Survey of Canada<br />
+        3303, 33rd st NW Calgary, T2L2A7 Canada<br />
+        Tel: +1 403 463 3544<br />
+        E-mail: <a href="mailto:sofie.gouwy@rncan-rncan.gc.ca">sofie.gouwy@rncan-rncan.gc.ca</a>  
     </p>
 </div>
 
