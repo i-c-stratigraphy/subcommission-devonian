@@ -9,8 +9,6 @@ permalink: /members
 
 Member  | Email
 ---  | ---
-
-
 Catherine CRÔNIER (France)  | <catherine.cronier@univ-lille1.fr>
 Yury A. GATOVSKY (Russia)  | <gatovsky@geol.msu.ru>
 Michal GINTER (Poland)  | <m.ginter@uw.edu.pl>
