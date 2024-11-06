@@ -13,10 +13,10 @@ Catherine CRÔNIER (France)  | <catherine.cronier@univ-lille1.fr>
 Yury A. GATOVSKY (Russia)  | <gatovsky@geol.msu.ru>
 Michal GINTER (Poland)  | <m.ginter@uw.edu.pl>
 Sofie GOUWY (Canada)  | <sofie.gouwy@nrcan-rncan.gc.ca.ca>
-Sven HARTENFELS (Germany)  | <aneta.formackova@geology.cz>
+Sven HARTENFELS (Germany)  | <palaeontologie@gd.nrw.de>
 Olga P. IZOKH (Russia) | <izokhop@gmail.com>
 Ulrich JANSEN (Germany)  | <ulrich.jansen@senckenberg.de>
-Jau-Chyn LIAO (Spain)  | <Jau.Liao@uv.es>
+Jau-Chyn LIAO (Spain)  | <jaucliao@ucm.es>
 John MARSHALL (United Kingdom)  | <jeam@noc.soton.ac.uk>
 Cameron PENN-CLARKE (South Africa)  | <cpennclarke@gmail.com>
 Wenkun QIE (China)  | <wkqie@nigpas.ac.cn>
@@ -48,7 +48,7 @@ Randy BLOOD (USA)  | <randy@drbgeological.com>
 Iliana BONCHEVA (Bulgaria)  | <boncheva2005@yahoo.com>
 Diana BOYER (USA)  | <boyer@winthrop.edu>
 Margaret BRADSHAW (New Zealand)  | <margaret.bradshaw@canterbury.ac.nz>
-Denise BRICE (France) | <dbrice@orange.fr>
+Denise BRICE (France) | <d.brice@isa-lille.fr>
 Rainer BROCKE (Germany)  | <rainer.brocke@senckenberg.de>
 Petr BUDIL (Czech Republic)  | <petr.budil@geology.cz>
 Carole J. BURROW (Australia)  | <carole.burrow@gmail.com>
@@ -61,20 +61,20 @@ Maria G. CORRIGA (Italy) | <corrigamariagiovanna@gmail.com>
 Erika DANIELSEN (USA) | <erika.danielsen@dnr.ohio.gov>
 Jed DAY (USA)  | <jeday@ilstu.edu>
 Claudia DOJEN (Austria)  | <claudia.dojen@landesmuseum.ktn.gv.at>
-David DE VLEESCHOUWER (Germany)  | <ddevleeschouwer@marum.de>
+David DE VLEESCHOUWER (Germany)  | <ddevlees@uni-muenster.de>
 James EBERT (USA)  | <ebertjr@oneonta.edu>
 Brooks B. ELLWOOD (USA)  | <ellwood@lsu.edu>
 Maya ELRICK (USA)  | <dolomite@unm.edu>
 Irina EVDOKIMOVA (Russia)  | <irina_evdokimova@vsegei.ru>
 Raimund FEIST (France)  | <raimund.feist@univ-montp2.fr>
-Lenka FERROVA (Czech Republic)  | <bellerophon@seznam.cz>
+Lenka FERROVA (Czech Republic)  | <lenka.ferrova@seznam.cz>
 Aneta FORMACKOVA (Czech Republic)  | <aneta.formackova@geology.cz>
-Jiří FRÝDA (Czech Republic)  | <lenka.ferrova@seznam.cz>
+Jiří FRÝDA (Czech Republic)  | <bellerophon@seznam.cz>
 Jenaro L. GARCÍA-ALCALDE (Spain)  | <jalcalde@uniovi.es>
-Catherine GIRARD (France)  | <catherine.girard@univ-montp2.fr>
+Catherine GIRARD (France)  | <catherine.girard@umontpellier.fr>
 Rob GESS (South Africa)  | <robg@imaginet.co.za>
-Ahmed EL HASSANI (Morocco)  | <elhassani@israbat.ac.ma>
-Christoph HARTKOPF-FRÖDER (Germany)  | <christoph.hartkopf-froeder@gd.nrw.de>
+Ahmed EL HASSANI (Morocco)  | <ahmedelhassani@gmail.com>
+Christoph HARTKOPF-FRÖDER (Germany)  | <hartkopf-froeder@gmx.de>
 Jindrich HLADIL (Czech Republic)  | <hladil@gli.cas.cz>
 Nicholas J. HOGANCAMP (USA)  | <hogancampnj@gmail.com>
 Rodrigo Scalise HORODYSKI (Brazil)  | <rshorodyski@gmail.com>
@@ -83,12 +83,12 @@ Heiko HÜNEKE (Germany)  | <hueneke@uni-greifswald.de>
 Jarno HUYGH (Belgium)  | <jarno.huygh@hotmail.com>
 Peter ISAACSON (USA)  | <isaacson@uidaho.edu>
 A. O. IVANOV (Russia)  | <IvanovA-Paleo@yandex.ru>
-Nadya G. IZOKH (Russia)  | <IzokhNG@ipgg.nsc.ru>
+Nadya G. IZOKH (Russia)  | <izokhng@gmail.com>
 Robert JACOBI (USA) | <rdjacobi@buffalo.edu>
 Sandra I. KAISER (Germany)  | <dr.sandra.kaiser@gmail.com>
 Aleksey KIM (Uzbekistan)  | <alekskim@ars.uz>
 Elena M. KIRILISHINA (Russia)  | <conodont@mail.ru>
-Gilbert KLAPPER (USA)  | <g-klapper@northwestern.edu>
+Gilbert KLAPPER (USA)  | <gjk1952@gmail.com>
 Christian KLUG (Switzerland)  | <chklug@pim.uzh.ch>
 Peter KÖNIGSHOF (Germany)  | <Peter.Koenigshof@senckenberg.de>
 Tomáš KUMPAN (Czech Republic)  | <kumpan.tom@gmail.com>
@@ -110,7 +110,7 @@ Judith NAGEL (USA) | <jnagel@stlawu.edu>
 Marek NARKIEWZICZ (Poland)  | <Marek.Narkiewicz@pgi.gov.pl>
 Atike NAZÍK (Turkey)  | <anazik@cu.edu.tr>
 Svetlana NIKOLAYEVA (Russia)  | <s.nikolaeva@nhm.ac.uk>
-Olga OBUT (Russia)  | <ObutOT@ipgg.nsc.ru>
+Olga OBUT (Russia)  | <olgaobut@gmail.com>
 D. Jeffrey OVER (USA)  | <over@geneseo.edu>
 Nonna OVNATANOVA (Russia)  | <nonna@ashot.de>
 Florentin PARIS (France)  | <florentin.paris@orange.fr>
@@ -138,7 +138,6 @@ Ramiro SUAREZ-SORUCO (Bolivia)  | <ramiro@suarez.net>
 Thomas SUTTNER (Austria)  | <suttner.thomas@gmail.com>
 Tong-Dzuy THANH (Vietnam)  | <Thanhtd_cd@vnu.edu.vn>
 Ian TROTH (United Kingdom)  | <ianrockstar@yahoo.co.uk>
-Montserrat TRUYOLS-MASSONI (Spain)  | <mtruyols@uniovi.es>
 V. St. TSYGANKO (Russia)  | <tsyganko@geo.komisc.ru>
 Susan TURNER (Australia)  | <paleodeadfish@yahoo.com>
 Mongkol UDCHACHON (Thailand)   | <mongkol.c@msu.ac.th>
@@ -147,7 +146,7 @@ Charles VER STRAETEN (USA)  | <cverstra@mail.nysed.gov>
 Stanislava VODRÁŽKOVÁ (Czech Republic)  | <stana.vodrazkova@seznam.cz>
 Christopher B.T WAID (USA)  | <christopher.waid@dnr.state.oh.us>
 Cheng-Yuan WANG (China)  | <cywang@nigpas.ac.cn>
-Jiashu WAMG (China)  | <jiashuwang@pku.edu.cn>
+Jiashu WANG (China)  | <jiashuwang@pku.edu.cn>
 Jonny A. WATERS (USA)  | <watersja@appstate.edu>
 Karsten WEDDIGE (Germany)  | <karsten.weddige@senckenberg.de>
 Tomáš WEINER (Czech Republic)  | <weiner@gli.cas.cz>
@@ -160,7 +159,7 @@ Li-Jun ZHANG (China)  | <Lijun.zhang@hpu.edu.cn>
 Huaicheng ZHU (China)  | <hczhu@nigpas.ac.cn>
 Min ZHU (China)  | <zhumin@ivpp.ac.cn>
 Pu ZONG (China)  | <zongpu0501@163.com>
-Ruiwen ZONG (China)  | zongruiwen@cug.edu.cn 
+Ruiwen ZONG (China)  | <zongruiwen@cug.edu.cn> 
 
 #### Honorary Members
 
