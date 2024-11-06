@@ -34,11 +34,11 @@ permalink: /officers
     <img src="/images/person-jansen.jpg" alt="" />
     <h4>Secretary: Ulrich Jansen</h4>
     <p>
-        Palaeozoology III, Senckenberg Gesellschaft<br />
-        für Naturforschung Rechtsfähiger<br />
-        Verein gemäß § 22 BGB, Senckenberganlage 25<br />
+        Palaeozoology III, Department of Paleontology and Historical Geology<br />
+        Senckenberg Research Institute and Museum of Natural History<br />
+        Senckenberganlage 25<br />
         60325 Frankfurt, Germany<br />
-        Tel: +49-69-97075 1146<br />
+        Tel: +49-69-7542 1146<br />
         E-mail: <a href="mailto:ulrich.jansen@senckenberg.de">ulrich.jansen@senckenberg.de</a>  
     </p>
 </div>
