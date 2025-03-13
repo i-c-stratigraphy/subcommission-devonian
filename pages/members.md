@@ -10,11 +10,11 @@ permalink: /members
 Member  | Email
 ---  | ---
 Catherine CRÔNIER (France)  | <catherine.cronier@univ-lille1.fr>
-Yury A. GATOVSKY (Russia)  | <gatovsky@geol.msu.ru>
+Yury A. GATOVSKY (Russia)  | <gatovsky@geol.msu.ru>  |  temporarily suspended
 Michal GINTER (Poland)  | <m.ginter@uw.edu.pl>
 Sofie GOUWY (Canada)  | <sofie.gouwy@nrcan-rncan.gc.ca.ca>
 Sven HARTENFELS (Germany)  | <palaeontologie@gd.nrw.de>
-Olga P. IZOKH (Russia) | <izokhop@gmail.com>
+Olga P. IZOKH (Russia) | <izokhop@gmail.com>  |  temporarily suspended
 Ulrich JANSEN (Germany)  | <ulrich.jansen@senckenberg.de>
 Jau-Chyn LIAO (Spain)  | <jaucliao@ucm.es>
 John MARSHALL (United Kingdom)  | <jeam@noc.soton.ac.uk>
@@ -36,7 +36,7 @@ Member  | Email
 Sarah ABOUSSALAM (Gerrmany)  |  <taghanic@uni-muenster.de>
 Polina ANDREEVA (Bulgaria)  | <polina_a@geology.bas.bg>
 Markus ARETZ (France)  | <markus.aretz@Get.omp.eu>
-Olga ARTYUSKOVA (Russia)  | <stpal@ufaras.ru>
+Olga ARTYUSKOVA (Russia)  | <stpal@ufaras.ru>  |  temporarily suspended
 Alireza ASHOURI (Iran)  | <ashouri2001@yahoo.com>
 Ko AUNG AYE (Myanmar)  | <akaung.mm@gmail.com>
 Gordon C. BAIRD (USA)  | <Gordon.Baird@fredonia.edu>
@@ -56,7 +56,7 @@ Andrew M. BUSH (USA)  | <Andrew.bush@uconn.edu>
 Sarah CARMICHAEL (USA)  | <carmichaelsk@appstate.edu>
 Jean-Georges CASIER (Belgium) | <casier@naturalsciences.be>
 Leona CHADIMOVÁ (Czech Republic)  | <chadimova@gli.cas.cz>
-S. Vladimir CHUPROV (Russia)  | <Chuprov@geo.komisc.ru>
+S. Vladimir CHUPROV (Russia)  | <Chuprov@geo.komisc.ru>  |  temporarily suspended
 Maria G. CORRIGA (Italy) | <corrigamariagiovanna@gmail.com>
 Erika DANIELSEN (USA) | <erika.danielsen@dnr.ohio.gov>
 Jed DAY (USA)  | <jeday@ilstu.edu>
@@ -65,7 +65,7 @@ David DE VLEESCHOUWER (Germany)  | <ddevlees@uni-muenster.de>
 James EBERT (USA)  | <ebertjr@oneonta.edu>
 Brooks B. ELLWOOD (USA)  | <ellwood@lsu.edu>
 Maya ELRICK (USA)  | <dolomite@unm.edu>
-Irina EVDOKIMOVA (Russia)  | <irina_evdokimova@vsegei.ru>
+Irina EVDOKIMOVA (Russia)  | <irina_evdokimova@vsegei.ru>  |  temporarily suspended
 Raimund FEIST (France)  | <raimund.feist@univ-montp2.fr>
 Lenka FERROVA (Czech Republic)  | <lenka.ferrova@seznam.cz>
 Aneta FORMACKOVA (Czech Republic)  | <aneta.formackova@geology.cz>
@@ -82,12 +82,12 @@ Hong-Fei HOU (China)  | <hou_hongfei@yahoo.com>
 Heiko HÜNEKE (Germany)  | <hueneke@uni-greifswald.de>
 Jarno HUYGH (Belgium)  | <jarno.huygh@hotmail.com>
 Peter ISAACSON (USA)  | <isaacson@uidaho.edu>
-A. O. IVANOV (Russia)  | <IvanovA-Paleo@yandex.ru>
-Nadya G. IZOKH (Russia)  | <izokhng@gmail.com>
+A. O. IVANOV (Russia)  | <IvanovA-Paleo@yandex.ru>  |  temporarily suspended
+Nadya G. IZOKH (Russia)  | <izokhng@gmail.com>  |  temporarily suspended
 Robert JACOBI (USA) | <rdjacobi@buffalo.edu>
 Sandra I. KAISER (Germany)  | <dr.sandra.kaiser@gmail.com>
 Aleksey KIM (Uzbekistan)  | <alekskim@ars.uz>
-Elena M. KIRILISHINA (Russia)  | <conodont@mail.ru>
+Elena M. KIRILISHINA (Russia)  | <conodont@mail.ru>  |  temporarily suspended
 Gilbert KLAPPER (USA)  | <gjk1952@gmail.com>
 Christian KLUG (Switzerland)  | <chklug@pim.uzh.ch>
 Peter KÖNIGSHOF (Germany)  | <Peter.Koenigshof@senckenberg.de>
@@ -110,9 +110,9 @@ Judith NAGEL (USA) | <jnagel@stlawu.edu>
 Marek NARKIEWZICZ (Poland)  | <Marek.Narkiewicz@pgi.gov.pl>
 Atike NAZÍK (Turkey)  | <anazik@cu.edu.tr>
 Svetlana NIKOLAYEVA (Russia)  | <s.nikolaeva@nhm.ac.uk>
-Olga OBUT (Russia)  | <olgaobut@gmail.com>
+Olga OBUT (Russia)  | <olgaobut@gmail.com>  |  temporarily suspended
 D. Jeffrey OVER (USA)  | <over@geneseo.edu>
-Nonna OVNATANOVA (Russia)  | <nonna@ashot.de>
+Nonna OVNATANOVA (Russia)  | <nonna@ashot.de>  |  temporarily suspended
 Florentin PARIS (France)  | <florentin.paris@orange.fr>
 Mercedes di PASQUO (Argentina)  | <medipa@cicyttp.org.ar>
 Andrés Felipe PASTOR-CHACON (Colombia)  | <afpastorc@unal.edu.co>
@@ -130,7 +130,7 @@ Felix SAUPE (Germany)  | <felix.saupe@uni-muenster.de>
 Norman SAVAGE (USA)  | <nmsavage@uoregon.edu>
 Eberhard SCHINDLER (Germany)  | <eberhard.schindler@senckenberg.de>
 Hans-Peter SCHÖNLAUB (Austria)  | <hp.schoenlaub@aon.at>
-Maria SNIGIREVA (Russia) | 
+Maria SNIGIREVA (Russia) | temporarily suspended
 Junjun SONG | <jjsong@nigpas.ac.cn>
 Till SÖTE (Germany)  | <t_soet_01@uni-muenster.de>
 Maurice STREEL (Belgium)  | <maurice.streel@ulg.ac.be>
@@ -138,7 +138,7 @@ Ramiro SUAREZ-SORUCO (Bolivia)  | <ramiro@suarez.net>
 Thomas SUTTNER (Austria)  | <suttner.thomas@gmail.com>
 Tong-Dzuy THANH (Vietnam)  | <Thanhtd_cd@vnu.edu.vn>
 Ian TROTH (United Kingdom)  | <ianrockstar@yahoo.co.uk>
-V. St. TSYGANKO (Russia)  | <tsyganko@geo.komisc.ru>
+V. St. TSYGANKO (Russia)  | <tsyganko@geo.komisc.ru>  |  temporarily suspended
 Susan TURNER (Australia)  | <paleodeadfish@yahoo.com>
 Mongkol UDCHACHON (Thailand)   | <mongkol.c@msu.ac.th>
 Tom T. UYENO (Canada)  | <tuyeno@nrcan.gc.ca>

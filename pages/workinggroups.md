@@ -21,12 +21,12 @@ Several meetings and workshop took place up to now, and the new GSSP is expected
 * Ondrej Babek (Czech Republic)
 * R. Thomas Becker (Germany)
 * Raimund Feist (France)
-* Yuri Gatovsky (Russia)
+* Yuri Gatovsky (Russia)  |  temporarily suspended
 * Sandra I. Kaiser (Germany)
 * Jiri Kalvoda (Czech Republic)
 * John Marshall (United Kingdom)
 * Hanna Matyja (Poland)
-* Svetlana Nikolaeva (Russia)
+* Svetlana Nikolaeva (Russia)  |  temporarily suspended
 * D. Jeffrey Over (USA)
 * Wenkun Qie (China)
 * Eddy Poty (Belgium)
@@ -40,8 +40,8 @@ The Emsian Working group has been recently re-established (2021) in order to sol
 
 #### Members
 * José Ignacio-Valenzuela-Ríos (Spain)
-* Nadya Izokh (Russia)
-* Olga Izokh (Russia)
+* Nadya Izokh (Russia)  |  temporarily suspended
+* Olga Izokh (Russia)  |  temporarily suspended
 * Aleksey Kim (Uzbekistan)
 * Maya Erina (Uzbekistan)
 * Ulrich Jansen (Germany)
