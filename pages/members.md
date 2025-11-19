@@ -93,6 +93,7 @@ Christian KLUG (Switzerland)  | <chklug@pim.uzh.ch>
 Peter KÖNIGSHOF (Germany)  | <Peter.Koenigshof@senckenberg.de>
 Tomáš KUMPAN (Czech Republic)  | <kumpan.tom@gmail.com>
 Hervé LELIÈVRE (France)  | <lelievre@cimrs1.mnhn.fr>
+Kun LIANG (China)  |
 Jianfeng LU (China)  |  <jflu@nigpas.ac.cn>
 Hui LUO (China)  |  <huiluo@nigpas.ac.cn>
 Ervins LUKSEVICS (Latvia)  | <ervins.luksevics@lu.lv>
@@ -122,6 +123,7 @@ Ta Hoa PHUONG (Vietnam)  | <tahoaphuong@gmail.com>
 John PICKETT (Australia)  | <picketj@bigpond.net.au>
 Dmitry PLAX (Belarus)  | <dmitr.plax@yandex.ru>
 Luiza PONCIANO (Brazil)  | <luizaponciano@gmail.com>
+Li QUAI (China)  |
 Grzegorz RACKI (Poland)  | <grzegorz.racki@us.edu.pl>
 J. Barry RICHARDSON (United Kingdom)  | <jbr@nhm.ac.uk>
 J. José RUSTÁN (Argentina)  | <juanjorustan@gmail.com>
@@ -151,8 +153,10 @@ Jonny A. WATERS (USA)  | <watersja@appstate.edu>
 Karsten WEDDIGE (Germany)  | <karsten.weddige@senckenberg.de>
 Tomáš WEINER (Czech Republic)  | <weiner@gli.cas.cz>
 Hedvika WEINEROVÁ (Czech Republic)  | <weinerova@gli.cas.cz>
+Nina WICHERN (Germany)  |
 Anthony J. WRIGHT (Australia)  | <tony.wright@optusnet.com.au>
 Mehdi YAZDI (Iran)  | <yazdimehdi@yahoo.com>
+Jiayi YIN (China)  |
 Gavin C. YOUNG (Australia)  | <gavin.young@anu.edu.au>
 Ahmed ZEGHARI  | <ilyesgeo31@gmail.com>
 Li-Jun ZHANG (China)  | <Lijun.zhang@hpu.edu.cn>
